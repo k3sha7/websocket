@@ -1,0 +1,20 @@
+:root{
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+  background-color: #444444;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #66fcf1
+}
+#chat{
+  height: 80vh;
+  background-color: #2e2d2d;
+}
+input{
+  width: 250px;
+}
+.msg-row{
+  display: flex;
+  margin-left: 10px;
+}

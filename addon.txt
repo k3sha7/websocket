@@ -1,0 +1,8 @@
+1. Customizing own messages
+2. Customizing the full UI of the chat
+3. Choose a room & then storing the messages on backend in a room
+4. Authenticated chat (registration/login)
+5. More of system generated messages
+6. Thinking about how you can make it scalable ( choosing API Gateway +
+  WebSocket + Redis/ElastiCache for managing all the temp state + 
+  using dynamodb or mongoDb mysql, for managing full permanent state )
